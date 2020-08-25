@@ -1,4 +1,4 @@
-thisimport { Component, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Quote } from '../quote';
 import { Form } from '@angular/forms';
 
